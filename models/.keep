@@ -1,4 +1,1 @@
-setx GITHUB_TOKEN "COLLE_TON_NOUVEAU_TOKEN"
-setx GITHUB_REPO "famobat/cabane-models"
-setx GITHUB_BRANCH "main"
-setx GITHUB_DIR "models"
+
