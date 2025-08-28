@@ -1,0 +1,30 @@
+{
+  "ts": "2025-08-28T15:05:41Z",
+  "event_id": "20250828T150541Z",
+  "action": "export_pdf",
+  "params": {
+    "params": {
+      "LONGUEUR": 2000.0,
+      "LARGEUR": 1500.0,
+      "HAUTEUR_MUR": 1800.0,
+      "SECTION_MONTANT": 50.0,
+      "SECTION_CHEVRON": 50.0,
+      "ENTRAXE_MONTANTS": 600.0,
+      "N_CHEVRONS": 6,
+      "PENTE_DEG": 20.0,
+      "DEBORD_TOIT": 0.0,
+      "PORTE_LARGEUR": 800.0,
+      "PORTE_HAUTEUR": 1800.0
+    }
+  },
+  "result": {
+    "path": "C:/Users/DELL/Desktop/Plansssss.pdf",
+    "viewer_url": "https://3dviewer.net/#model=https://cdn.jsdelivr.net/gh/famobat/cabane-models@20c9de1cb8ac0695713c17b1d5167e16d6e50522/models/cabane_f01987aec0fb4f6abc1a69d8743c603a.step"
+  },
+  "error": null,
+  "artifact": {
+    "path": "C:/Users/DELL/PycharmProjects/MaCabane_fixed_v3/history/pdf_plans/2025-08-28/20250828T150541Z/Plansssss.pdf",
+    "sha256": "7526e825ea060392e0ec567ac9d291729a842ad773a5badc463737276a4b2c4d",
+    "size": 60251
+  }
+}
