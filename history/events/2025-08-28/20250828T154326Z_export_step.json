@@ -1,0 +1,29 @@
+{
+  "ts": "2025-08-28T15:43:26Z",
+  "event_id": "20250828T154326Z",
+  "action": "export_step",
+  "params": {
+    "params": {
+      "LONGUEUR": 2000.0,
+      "LARGEUR": 1500.0,
+      "HAUTEUR_MUR": 1800.0,
+      "SECTION_MONTANT": 50.0,
+      "SECTION_CHEVRON": 50.0,
+      "ENTRAXE_MONTANTS": 600.0,
+      "N_CHEVRONS": 6,
+      "PENTE_DEG": 20.0,
+      "DEBORD_TOIT": 0.0,
+      "PORTE_LARGEUR": 800.0,
+      "PORTE_HAUTEUR": 1800.0
+    }
+  },
+  "result": {
+    "path": "C:/Users/DELL/Desktop/MaCabane4856.step"
+  },
+  "error": null,
+  "artifact": {
+    "path": "C:/Users/DELL/PycharmProjects/MaCabane_fixed_v3/history/step/2025-08-28/20250828T154326Z/MaCabane4856.step",
+    "sha256": "c0f0415866b1565926625b0c8c3fd175f7623e827872257baa7886e745189a0c",
+    "size": 754556
+  }
+}
