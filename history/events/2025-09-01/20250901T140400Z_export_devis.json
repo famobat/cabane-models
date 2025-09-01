@@ -1,0 +1,32 @@
+{
+  "ts": "2025-09-01T14:04:00Z",
+  "event_id": "20250901T140400Z",
+  "action": "export_devis",
+  "params": {
+    "params": {
+      "LONGUEUR": 2000.0,
+      "LARGEUR": 1500.0,
+      "HAUTEUR_MUR": 1800.0,
+      "SECTION_MONTANT": 50.0,
+      "SECTION_CHEVRON": 50.0,
+      "ENTRAXE_MONTANTS": 600.0,
+      "N_CHEVRONS": 6,
+      "PENTE_DEG": 20.0,
+      "DEBORD_TOIT": 0.0,
+      "PORTE_LARGEUR": 800.0,
+      "PORTE_HAUTEUR": 1800.0,
+      "SHOW_PANNEAUX": false,
+      "PANN_THK": 15.0
+    }
+  },
+  "result": {
+    "path": "C:/Users/DELL/PycharmProjects/MaCabane_fixed_v3/Devis.pdf",
+    "viewer_url": "https://3dviewer.net/#model=https://cdn.jsdelivr.net/gh/famobat/cabane-models@6eca91d53b195343ad7e28b78392bf398992aaf9/models/cabane_e8548d1d84b148d999f4ea01cfcf8113.step"
+  },
+  "error": null,
+  "artifact": {
+    "path": "C:/Users/DELL/PycharmProjects/MaCabane_fixed_v3/history/devis/2025-09-01/20250901T140400Z/Devis.pdf",
+    "sha256": "db0e27e7e907584637cefa3ca30ad88decc6840fa95c4c725b191d55ce7291b6",
+    "size": 50883
+  }
+}
